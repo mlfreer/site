@@ -1,6 +1,6 @@
 ## Mikhail "Misha" Freer
 
-![Image](/static/alone.jpg)
+![Image](/static/Alone.jpg)
 
 You can use the [editor on GitHub](https://github.com/mlfreer/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
